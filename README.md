@@ -13,9 +13,6 @@
 Opening Screen
 ![image](https://user-images.githubusercontent.com/77076615/127703779-3b689553-b53d-4878-999d-1a65ebbb7601.png)
 
-SignUp Screen
-![image](https://user-images.githubusercontent.com/77076615/127704015-e9cb6ad7-0fa7-4800-97d2-b91c0dcb3e70.png)
-
 Search Bar
 ![image](https://user-images.githubusercontent.com/77076615/127704295-0abb72c0-61e0-4cda-8c8d-1035ff92d2c3.png)
 
